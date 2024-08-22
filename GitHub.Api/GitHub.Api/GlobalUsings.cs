@@ -1,0 +1,11 @@
+﻿global using Asp.Versioning;
+global using Asp.Versioning.Builder;
+global using Azure.Identity;
+global using GitHub.Api.Abstractions;
+global using GitHub.Api.Extensions;
+global using GitHub.Api.Models;
+global using GitHub.Api.Services;
+global using Microsoft.Extensions.DependencyInjection.Extensions;
+global using Microsoft.Extensions.Options;
+global using System.ComponentModel.DataAnnotations;
+global using System.Reflection;
