@@ -10,7 +10,7 @@
 	<ItemGroup>
 		<PackageReference Include="Asp.Versioning.Http" Version="8.0.0" />
 		<PackageReference Include="Asp.Versioning.Mvc.ApiExplorer" Version="8.0.0" />
-		<PackageReference Include="Azure.Identity" Version="1.11.2" />
+		<PackageReference Include="Azure.Identity" Version="1.11.4" />
 		<PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.4" />
 		<PackageReference Include="Microsoft.Azure.AppConfiguration.AspNetCore" Version="7.1.0" />
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
